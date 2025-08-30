@@ -1,0 +1,26 @@
+D:
+
+cd "D:\Usuários\grupo\Área de Trabalho\DAS\PROJETOS\AudioBook\kokoro-tts"
+
+"D:\Usuários\grupo\Área de Trabalho\DAS\PROJETOS\AudioBook\.venv\Scripts\activate"
+
+/////////////////////////////////////////////////////////////////////
+Criar ambiente virtual
+python -m venv .venv
+
+
+ Ativar o ambiente virtual
+.venv\Scripts\activate
+
+cd D:\Usuários\grupo\Área de Trabalho\DAS\PROJETOS\AudioBook\kokoro-tts
+////////////////////////////////////////////////////
+
+
+
+
+cd "D:\Usuários\grupo\Área de Trabalho\DAS\PROJETOS\AudioBook"
+git clone https://github.com/hexgrad/kokoro.git
+cd kokoro
+
+
+"D:\Usuários\grupo\Área de Trabalho\DAS\PROJETOS\AudioBook\.venv\Scripts\activate"

@@ -1,0 +1,30 @@
+////////////////////////// 1° TRANSFORMANDO PDF EM TXT ///////////////////////
+
+OPÇÃO 1 -------------------------------------
+
+	RODE O pdf_txt.py NA PASTA QUE TEM O PDF OU
+
+OPÇAO 2 ------------------------------------
+
+	Copie e cole cada capitulo de forma manual no word ou libreOffice
+	Lembre de seguir tar regra para os capitulos *Capítulo n°, nome do capítulo.*
+	Desta forma o proximo prongrama ira identificar cada capitulo.
+
+////////////////////////// 2° DIVIDINDO O LIVRO EM TXT POR CAPITULOS ///////////////////////
+
+	COLOQUE O O PROGRAMA capitulo.py na pasta que contem o arquivo .txt que tem todo livro da etapa 	anterior
+	ao rodar ele ira criar uma pasta com os .txt, com cada capitulo.
+
+////////////////////////// 3° CRIANDO AUDIO POR TXT ///////////////////////
+
+	Depois pegue os txt do livro completo ou os txt dos capitulos e coloque na pasta chapters e ai rodo o 		programa book_por_capitulo.py ele ira criar os audios para cada txt.
+
+////////////////////////// 4° EDITANDO AUDIO ///////////////////////
+
+	Abra o Audacity e junte manualmente todos os audios e aplique os filtros discritos no arquivo Perfil de 	audio.odg
+
+	Apos isto exporte o audio como flac, 44100, 16 bits, 8 nivel, esterio.
+
+////////////////////////// 5° CRIANDO VIDEO ///////////////////////
+
+	agora para criar o video junte tudo em uma mesma pasta, audio, e imagem da capa, e ai é só seguir o MANUAL.txt

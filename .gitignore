@@ -1,0 +1,26 @@
+# Saídas/arquivos grandes
+Audio/
+PDF/
+ffmpeg/
+Arte Capa/
+IA-DRIVERS/
+Versões do Software/
+
+# Áudio/vídeo
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.mp4
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SO / diversos
+.DS_Store
+Thumbs.db
+*.log
